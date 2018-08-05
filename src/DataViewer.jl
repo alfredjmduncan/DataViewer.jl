@@ -11,8 +11,8 @@ using DataFrames
 # Exported methods and types
 #-------------------------------------------------------------------------------
 
-export get_data,
-       dateconvert
+export viewdata,
+       writehtml
 
 #-------------------------------------------------------------------------------
 # Load methods and types
